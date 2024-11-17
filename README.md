@@ -1,55 +1,42 @@
-<h1>ENTC Department Website </h1>
-<p>This repository contains the source code for the Website for the Electronics and Telecommunication (ENTC) Department, designed to provide department-related information and resources. The website is intended for students, faculty, and visitors, offering easy access to academic content, announcements, and contact information.
-</p>
- <h3>Features</h3>
- <ol type = "1">
-<li>Home Page: Overview of the department, including mission, vision, and recent news.</li>
-<li>About Us: Information about the department's history, faculty members, and infrastructure.</li>
+# ENTC Department Website
 
-<li>Faculty: Profiles of faculty members with their research areas and contact details. </li>
+This repository contains the source code for the Website for the Electronics and Telecommunication (ENTC) Department, designed to provide department-related information and resources. The website is intended for students, faculty, and visitors, offering easy access to academic content, announcements, and contact information.
 
-<li>Gallery: A collection of images showcasing department events, workshops, and facilities. </li>
-<li>Contact Us: Contact form for inquiries and department location details.</li>
+## Features
+- **Home Page**: Overview of the department, including mission, vision, and recent news.
+- **About Us**: Information about the department's history, faculty members, and infrastructure.
+- **Faculty**: Profiles of faculty members with their research areas and contact details.
+- **Gallery**: A collection of images showcasing department events, workshops, and facilities.
+- **Contact Us**: Contact form for inquiries and department location details.
 
-</ol>
-<h3>Tech Stack</h3>
+## Tech Stack
 
-<li>Frontend: </li> </br>
-<ol type = "1">
+### Frontend:
+- **HTML5**, **CSS3**, **JavaScript**: For building responsive and interactive web pages.
+- **Bootstrap**: For consistent design and layout.
+- **jQuery**: For handling dynamic elements and animations.
 
-<li>HTML5, CSS3, JavaScript: For building responsive and interactive web pages. </li>
-<li>Bootstrap: For consistent design and layout.</li>
-<li>jQuery: For handling dynamic elements and animations.</li>
-</br>
-</ol>
+### Backend (optional, depending on implementation):
+- **Node.js**: For server-side scripting and handling backend logic.
+- **Express**: For creating a lightweight server to serve pages and process form data.
+- **MongoDB/MySQL** (optional): For storing data related to inquiries, research papers, etc.
 
-<li>Backend (optional, depending on implementation):  </li> </br>
-<ol type = "1">
-  <li>Node.js: For server-side scripting and handling backend logic. </li>
-<li>Express: For creating a lightweight server to serve pages and process form data. </li>
-<li>MongoDB/MySQL (optional): For storing data related to inquiries, research papers, etc. </li>
-</br>
-</ol>
+### Deployment:
+- Can be hosted on platforms like GitHub Pages, Heroku, or any other web hosting service.
 
-<li>Deployment: </li> </br>
+## Pages Overview
+- **index.html**: The home page of the website.
+- **about.html**: The about section of the department.
+- **faculty.html**: List of faculty members along with their profiles.
+- **gallery.html**: Image gallery of department events and infrastructure.
+- **contact.html**: A form for contacting the department and location information.
 
-<p>Can be hosted on platforms like GitHub Pages, Heroku, or any other web hosting service. </p>
+## Contact Us
+- **By Github**: [https://github.com/SnehaVPujari007](https://github.com/SnehaVPujari007)
+- **By Email**: [dotsnehapujari555@gmail.com](mailto:dotsnehapujari555@gmail.com)
 
+Thank you for checking out the ENTC Department Website repository! Feel free to contribute and enhance the project for the benefit of the academic community 😊
 
-<h3>Pages Overview </h3>
-<li>index.html: The home page of the website.</li>
-<li>about.html: The about section of the department.</li>
-<li>faculty.html: List of faculty members along with their profiles.</li>
-<li>gallery.html: Image gallery of department events and infrastructure.</li>
-<li>contact.html: A form for contacting the department and location information.</li>
-
-
-<h3>Contact Us</h3>
-
-<p>By Github : https://github.com/SnehaVPujari007 </p>
-<p>By Email : dotsnehapujari555@gmail.com </p>
-
-<b>Thank you for checking out the ENTC Department Website repository! Feel free to contribute and enhance the project for the benefit of the academic community 😊 </b>
 
 
 
